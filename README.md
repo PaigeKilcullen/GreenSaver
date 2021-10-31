@@ -1,4 +1,7 @@
-# zac-o-group-b
+# GreenSaver Notes
+
+Wireframe:
+https://www.figma.com/file/cVmOeeDUEeICdVXniz5KED/GreenSaver
 
 Foundation developed with Nate Sloan and Salini Arjunan for Launch Code's Capstone Project
 Currently transitioning the project into a React Application -PK
